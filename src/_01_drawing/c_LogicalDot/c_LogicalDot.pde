@@ -1,7 +1,8 @@
 
 void setup() {
   
-// 1. Set the size of the sketch. Make it 600 pixels square. 
+// 1. Set the size of the sketch. Make it 600 pixels squar
+  size(300,300);
   
 
 }
